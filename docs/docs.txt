@@ -1,7 +1,14 @@
-#   Librosa
+#	Librosa
 
-##   Librosa Documentation
+##	Librosa Documentation
 http://librosa.github.io/librosa/index.html
 
 ##	Librosa Example
 http://nbviewer.jupyter.org/github/librosa/librosa/blob/master/examples/LibROSA%20demo.ipynb
+
+
+#	Python
+
+##	Project Structure
+https://docs.python-guide.org/writing/structure/
+
