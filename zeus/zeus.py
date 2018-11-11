@@ -11,14 +11,10 @@ def main():
     song_list = import_playlist(case1)
     n = len(song_list)
 
-    print(n)
-    print(song_list[0])
-
     # Create objects
     for i in range(n):
         song_fname = song_list[i]
-        song = Song(song_fname)
-        song.read_song()
+        song = Song(fname=song_fname)
 
         break
 
