@@ -1,0 +1,2 @@
+/home/mcrg/Documents/GitHub/zeus/tests/data/song1.mp3
+/home/mcrg/Documents/GitHub/zeus/tests/data/song2.mp3
